@@ -1,0 +1,10 @@
+account_id,high_value_flag,location_flag,device_flag,failure_flag,risk_score
+ACC_0DFX4VBO,0,1,0,1,2
+ACC_1257D0UB,0,1,0,1,2
+ACC_9RXTOZ3Q,0,1,0,1,2
+ACC_HJ2SNNSI,1,0,1,0,2
+ACC_KQLLRK7Y,0,1,0,1,2
+ACC_MA1W2I46,0,1,0,1,2
+ACC_SZNHQFS6,0,1,0,1,2
+ACC_UOUTABWX,0,1,1,0,2
+ACC_YPMN8TTI,0,1,1,0,2
