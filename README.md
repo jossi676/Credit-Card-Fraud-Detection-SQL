@@ -9,8 +9,9 @@ fraud detection rules commonly used by banks and fintech companies.
 The analysis is based on structured transaction data and focuses on behavioral, 
 velocity, geographic, device, and merchant-level risk signals.
 
-https://github.com/jossi676/Credit-Card-Fraud-Detection-SQL/blob/main/Findings.jpg
+
 ---
+[HY-Motion](assets/Findings.jpg)
 
 ## Dataset Description
 The project uses five relational tables:
